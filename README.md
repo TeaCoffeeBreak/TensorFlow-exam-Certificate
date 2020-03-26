@@ -13,3 +13,5 @@ If the problem requires a complex model(not really that complex. About 3~5M para
 I think the camera is required to take a picture of you prior to the exam when you submit your identification and they request you to take a picture of you so that they can confirm it is really you."
 
 "I forgot to mention that yes I passed. Grading took about 3 working days."
+
+"The cert doesn't require going to a testing center - it just uses a plugin for PyCharm IDE"
