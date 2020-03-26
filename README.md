@@ -17,3 +17,9 @@ I think the camera is required to take a picture of you prior to the exam when y
 "I forgot to mention that yes I passed. Grading took about 3 working days."
 
 "The cert doesn't require going to a testing center - it just uses a plugin for PyCharm IDE"
+
+preparation: 
+
+course recommended by google on official cert page: https://www.coursera.org/specializations/tensorflow-in-practice
+
+other prep resources recommended by google: https://www.tensorflow.org/resources/learn-ml
